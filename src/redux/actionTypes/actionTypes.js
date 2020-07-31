@@ -1,0 +1,9 @@
+export const GET_ALL_JOBS = 'GET_ALL_JOBS';
+export const GET_ALL_PENDING = 'GET_ALL_PENDING';
+export const GET_ALL_FULFILLED = 'GET_ALL_FULFILLED';
+export const GET_ALL_REJECTED = 'GET_ALL_REJECTED';
+
+export const GET_JOB = 'GET_JOB';
+export const GET_JOB_PENDING = 'GET_JOB_PENDING';
+export const GET_JOB_FULFILLED = 'GET_JOB_FULFILLED';
+export const GET_JOB_REJECTED = 'GET_JOB_REJECTED';
